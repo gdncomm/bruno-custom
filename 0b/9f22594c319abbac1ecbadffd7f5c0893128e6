@@ -1,0 +1,127 @@
+packages/bruno-app/src/utils/collections/runner-iterations.spec.js
+  s_8f97d54d3de534::t_c84683da131a5c 1-25
+packages/bruno-js/src/runtime/test-runtime.js
+  s_4fddbc70f3f61c::t_fd8e943fe2e938 34,53-54
+packages/bruno-app/src/components/RunnerResults/RunnerDataFile/index.jsx
+  s_4fddbc70f3f61c::t_a211e2a6248f3b 1-86
+packages/bruno-cli/src/runner/run-single-request.js
+  s_4fddbc70f3f61c::t_2b460163b7f712 59,64
+  s_4fddbc70f3f61c::t_0d656acc9f9382 118-119,189-193
+  s_4fddbc70f3f61c::t_ae424c5422b1ea 194
+packages/bruno-electron/src/ipc/network/iteration-data.spec.js
+  s_4fddbc70f3f61c::t_20ef96c6cb133d 1-63
+packages/bruno-js/src/interpolate-string.js
+  s_4fddbc70f3f61c::t_fd8e943fe2e938 5,15
+packages/bruno-app/src/providers/ReduxStore/slices/collections/index.js
+  s_4fddbc70f3f61c::t_983fa7abfbf53a 3540,3565,3699,3706-3707
+  s_8f97d54d3de534::t_c84683da131a5c 3676-3685,4427
+packages/bruno-app/src/providers/ReduxStore/slices/collections/actions.js
+  s_4fddbc70f3f61c::t_150ebdc69aec1c 14
+  s_4fddbc70f3f61c::t_983fa7abfbf53a 728,775-776,780,3460,3466-3467,3472-3475
+  s_4fddbc70f3f61c::t_3c0af227457f3f 3476
+packages/bruno-cli/src/runner/interpolate-vars.js
+  s_4fddbc70f3f61c::t_2994c8ae27f027 42,68
+packages/bruno-js/src/runtime/script-runtime.js
+  s_4fddbc70f3f61c::t_fd8e943fe2e938 34,53-54,187,206-207
+packages/bruno-common/src/runner/iteration-data/index.ts
+  s_4fddbc70f3f61c::t_ba3d6ed1b1d76d 1-182
+packages/bruno-cli/tests/reporters/junit.spec.js
+  s_8f97d54d3de534::t_9f8d5c69dfb9bb 302-331
+packages/bruno-converters/tests/bruno/bruno-to-postman-translations/variables.test.js
+  s_4fddbc70f3f61c::t_05a09d612aeff8 157-168
+packages/bruno-cli/src/commands/run.js
+  s_4fddbc70f3f61c::t_fba022fff15c1d 5,238-245,300-304,354-355,684-711,790,793,839-841,864-865,873-888,891-902,905,921-922,925,938,968,973-974,993,995-996,1014-1016
+  s_4fddbc70f3f61c::t_1cc85caebcdad5 49-56,1043-1044,1094-1095
+packages/bruno-cli/tests/integration/run-iteration-data.spec.js
+  s_4fddbc70f3f61c::t_47e8b0ebcff15b 8-12,84,102,111,120,131,141,148
+  s_4fddbc70f3f61c::t_13787ee61434f4 1-7,13-83,85-101,103-110,112-119,121-130,132-140,142-147,149-154
+packages/bruno-js/src/runtime/assert-runtime.js
+  s_4fddbc70f3f61c::t_fd8e943fe2e938 367,414,435-436,455
+packages/bruno-js/src/bru.js
+  s_4fddbc70f3f61c::t_e4b25267741285 34-35,58-59,75-76,172,428-434
+  s_4fddbc70f3f61c::t_f9a3534cc8f99d 435
+packages/bruno-js/tests/iteration-data.spec.js
+  s_4fddbc70f3f61c::t_ddb2581407beb2 1-104
+packages/bruno-electron/src/ipc/network/index.js
+  s_4fddbc70f3f61c::t_8cc3f3fa7c9b7c 50-51,1465-1466,1468-1473,1612-1613,1660,1663-1670,1686-1687,1734-1735,2207-2209
+  s_4fddbc70f3f61c::t_f53e8628e6930f 765,823,901-905,1489-1490,1558-1559,1736
+  s_4fddbc70f3f61c::t_c397676647620d 1358,1363
+packages/bruno-cli/src/reporters/junit.js
+  s_4fddbc70f3f61c::t_4168c768fac30d 13-14,24
+packages/bruno-electron/src/ipc/network/iteration-data.js
+  s_4fddbc70f3f61c::t_eb4d2f7978e51d 1-43
+packages/bruno-app/src/components/RunnerResults/RunnerDataFile/index.spec.jsx
+  s_4fddbc70f3f61c::t_91f8b1e6fe9d75 1-93
+packages/bruno-js/src/runtime/vars-runtime.js
+  s_4fddbc70f3f61c::t_fd8e943fe2e938 32,52-53
+packages/bruno-app/src/providers/ReduxStore/slices/collections/runner-exchange-events.spec.js
+  s_4fddbc70f3f61c::t_d0f75802b7e619 113-136
+packages/bruno-electron/src/ipc/network/interpolate-vars.js
+  s_4fddbc70f3f61c::t_2994c8ae27f027 44,73
+packages/bruno-app/src/components/RunnerResults/index.jsx
+  s_4fddbc70f3f61c::t_3904e910db3470 16,80-82,197,199,211,220-221,235,300-301,303-331,336,446-448,450-455
+  s_8f97d54d3de534::t_c84683da131a5c 18
+  s_8f97d54d3de534::t_969044dcb1813c 295,302
+packages/bruno-js/src/sandbox/quickjs/shims/bru.js
+  s_4fddbc70f3f61c::t_135f96850fd1f0 213-224
+packages/bruno-app/src/components/RunnerResults/RunnerDataFile/StyledWrapper.js
+  s_4fddbc70f3f61c::t_02113a6a85d6a4 1-13
+packages/bruno-converters/src/utils/postman-to-bruno-translator.js
+  s_4fddbc70f3f61c::t_9644c1c9b27ce8 41-43
+packages/bruno-common/src/runner/index.ts
+  s_4fddbc70f3f61c::t_54efba120f7f53 3-9,11-21
+packages/bruno-converters/src/utils/bruno-to-postman-translator.js
+  s_4fddbc70f3f61c::t_9644c1c9b27ce8 58-60,258-261
+  s_4fddbc70f3f61c::t_95e696f2b830e4 262-263
+packages/bruno-app/src/utils/collections/runner-iterations.js
+  s_8f97d54d3de534::t_c84683da131a5c 1-15
+packages/bruno-app/src/components/Sidebar/Collections/Collection/CollectionItem/RunCollectionItem/index.js
+  s_8f97d54d3de534::t_6c32016581c715 9,14-15,27-30,47-48,50,122-151,165,168
+packages/bruno-common/src/runner/iteration-data/index.spec.ts
+  s_4fddbc70f3f61c::t_23693bdc3e7562 1-148
+packages/bruno-converters/tests/postman/postman-translations/transpiler-tests/variables.test.js
+  s_4fddbc70f3f61c::t_05a09d612aeff8 293-304
+packages/bruno-app/src/utils/codemirror/autocomplete.js
+  s_4fddbc70f3f61c::t_9644c1c9b27ce8 127-128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0b9f22594c319abbac1ecbadffd7f5c0893128e6",
+  "prompts": {
+    "4fddbc70f3f61cfd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "566908ff-e16f-4ab6-a23f-3ba0014815c6",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "christian.sidhik <christian.sidhik@gdn-commerce.com>",
+      "total_additions": 12,
+      "total_deletions": 7,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "8f97d54d3de534cb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "36ebae8d-198c-4a14-b35d-83ef04fe89a8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "christian.sidhik <christian.sidhik@gdn-commerce.com>",
+      "total_additions": 135,
+      "total_deletions": 28,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  },
+  "sessions": {
+    "s_4fddbc70f3f61c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "566908ff-e16f-4ab6-a23f-3ba0014815c6",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
